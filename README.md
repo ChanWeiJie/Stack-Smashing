@@ -8,4 +8,4 @@ The challenges are as follows:
 ## Files
 In each sub folder contains an "attack.py" which shows the exploit made to expose the weakness of the corresponding c file.
 
-I have also included a writeup that documented my thought process and picutres showing the success of each attacks.
+I have also included a writeup that documented my thought process and pictures showing the success of each attacks.
